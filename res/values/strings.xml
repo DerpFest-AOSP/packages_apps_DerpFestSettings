@@ -9,4 +9,8 @@
     <!-- Backup Transport selection settings menu and activity title -->
     <string name="backup_transport_setting_label">Change backup provider</string>
     <string name="backup_transport_title">Select backup provider</string>
+
+    <!-- About phone screen, DerpFest version -->
+    <string name="rom_version_title">DerpFest version</string>
+
 </resources>

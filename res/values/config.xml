@@ -45,4 +45,7 @@
 
     <!-- Whether to show DerpFest features (button, status bar) in System settings -->
     <bool name="config_show_derp_features_settings">true</bool>
+
+    <!-- Show battery information -->
+    <bool name="config_show_battery_info" translatable="false">true</bool>
 </resources>

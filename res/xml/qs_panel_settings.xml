@@ -31,6 +31,13 @@
         android:min="1" />
 
     <org.derpfest.support.preferences.SystemSettingSwitchPreference
+        android:key="qs_show_battery_estimate"
+        android:title="@string/qs_show_battery_estimate_title"
+        android:summaryOn="@string/qs_show_battery_estimate_summary_on"
+        android:summaryOff="@string/qs_show_battery_estimate_summary_off"
+        android:defaultValue="true" />
+
+    <org.derpfest.support.preferences.SystemSettingSwitchPreference
         android:key="qs_show_data_usage"
         android:title="@string/qs_footer_datausage_title"
         android:summary="@string/qs_footer_datausage_summary"
